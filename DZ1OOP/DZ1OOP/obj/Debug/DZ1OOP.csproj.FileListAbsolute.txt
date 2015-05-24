@@ -1,0 +1,6 @@
+D:\Мои документы\Visual Studio 2013\Projects\DZ1OOP\DZ1OOP\bin\Debug\DZ1OOP.exe.config
+D:\Мои документы\Visual Studio 2013\Projects\DZ1OOP\DZ1OOP\obj\Debug\DZ1OOP.csprojResolveAssemblyReference.cache
+D:\Мои документы\Visual Studio 2013\Projects\DZ1OOP\DZ1OOP\bin\Debug\DZ1OOP.exe
+D:\Мои документы\Visual Studio 2013\Projects\DZ1OOP\DZ1OOP\bin\Debug\DZ1OOP.pdb
+D:\Мои документы\Visual Studio 2013\Projects\DZ1OOP\DZ1OOP\obj\Debug\DZ1OOP.exe
+D:\Мои документы\Visual Studio 2013\Projects\DZ1OOP\DZ1OOP\obj\Debug\DZ1OOP.pdb
